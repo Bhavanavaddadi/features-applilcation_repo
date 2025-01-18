@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
        
         child: Column(
-         e vertical (the cross axis would be
+        
          
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
